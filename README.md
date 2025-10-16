@@ -60,5 +60,7 @@ Step 7: Finalize and Export
 # Output
 
 [generative ai exp1.pdf](https://github.com/user-attachments/files/22946954/generative.ai.exp1.pdf)
-[Generative_AI_Experiment_Report_HAshwin_3Pages.pdf](https://github.com/user-attachments/files/22946956/Generative_AI_Experiment_Report_HAshwin_3Pages.pdf)
+
 # Result
+The experiment to develop a Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) was successfully completed following the structured algorithmic approach.
+
