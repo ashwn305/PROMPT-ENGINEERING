@@ -59,5 +59,6 @@ Step 7: Finalize and Export
 
 # Output
 
-
+[generative ai exp1.pdf](https://github.com/user-attachments/files/22946954/generative.ai.exp1.pdf)
+[Generative_AI_Experiment_Report_HAshwin_3Pages.pdf](https://github.com/user-attachments/files/22946956/Generative_AI_Experiment_Report_HAshwin_3Pages.pdf)
 # Result
